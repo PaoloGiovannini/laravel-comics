@@ -1,0 +1,29 @@
+.footer-up {
+    background-image: url(../img/footer-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .container {
+        background-image: url(../img/dc-logo-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        padding: 35px 0px;
+
+        ul li {
+            padding: 3px 0px;
+
+            a {
+                color: #959595;
+            }
+        }
+
+        .sites, .dc {
+            padding: 0px 25px;
+        }
+
+        h3 {
+            color: white;
+            padding: 15px 0px;
+        }
+    }
+}
