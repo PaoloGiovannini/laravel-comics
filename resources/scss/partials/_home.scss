@@ -50,3 +50,26 @@ main .wrap-up {
 
     }
 }
+
+main .wrap-down {
+    background-color: #0282f9;
+
+    .container {
+        padding: 30px 0px;
+
+
+        img {
+            display: inline-block;
+            width: 50px;
+            vertical-align: middle;
+        }
+
+        span {
+            vertical-align: middle;
+            color: white;
+            margin-left: 10px;
+        }
+    }
+
+
+}
