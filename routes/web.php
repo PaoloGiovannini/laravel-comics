@@ -112,7 +112,7 @@ Route::get('/', function () {
                 'href' => '#Shop-Dc',
             ],
         ],
-        'sites' =>[
+        'sites' => [
             [
                 'text' => 'Shop Dc',
                 'href' => '#Shop-Dc',
