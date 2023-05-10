@@ -1,43 +1,42 @@
 @import 'partials/header.scss';
+@import 'partials/home.scss';
 
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: sans-serif;
-    
 }
 
-.d-flex{
+.d-flex {
     display: flex;
 }
 
-.space-between{
+.space-between {
     justify-content: space-between;
 }
 
-.space-around{
+.space-around {
     justify-content: space-around;
 }
 
-.flex-center{
-    align-items: center ;
+.flex-center {
+    align-items: center;
 }
 
-ul li{
+ul li {
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
-    
+
 }
 
-.container{
+.container {
     max-width: 1300px;
     margin: auto;
 }
-
